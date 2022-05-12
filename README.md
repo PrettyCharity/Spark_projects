@@ -1,5 +1,7 @@
 # Spark_projects
-Spark and Python for Big Data with PySpark [*](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) course notebooks.
+Spark and Python for Big Data with PySpark [*](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) course notebooks. 
+
+Installation of Spark on Windows [*](https://sparkbyexamples.com/pyspark/how-to-install-and-run-pyspark-on-windows).
 
 - Spark DataFrame
   - [Basics](https://github.com/PrettyCharity/Spark_projects/blob/main/Spark_DataFrames/Spark%20DataFrane%20Basics.ipynb)
